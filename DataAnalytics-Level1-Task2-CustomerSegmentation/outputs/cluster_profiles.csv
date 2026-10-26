@@ -1,0 +1,5 @@
+Cluster,Customers,AvgRecency,AvgFrequency,AvgMonetary,MedianMonetary,CustomerSharePct
+0,897,22.79,1.92,486.06,414.2,20.68
+1,1174,65.29,4.19,1822.98,1355.04,27.06
+2,1549,192.27,1.35,360.55,303.16,35.71
+3,718,12.21,13.64,8011.89,3687.77,16.55

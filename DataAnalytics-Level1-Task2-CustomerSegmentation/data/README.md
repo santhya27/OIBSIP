@@ -6,4 +6,3 @@ Download the original dataset from the [official UCI website](https://archive.ic
 
 After downloading, place `Online Retail.xlsx` inside this folder when running the notebook locally.
 
-The original dataset is not included in this repository.

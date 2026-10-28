@@ -33,7 +33,7 @@ Download `creditcard.csv` and place it in the `data/` folder before running the 
 
 ## Project Structure
 - `Fraud_Detection.ipynb` — analysis, training, and evaluation
-- `data/README.md` — dataset download instructions
+- `data` — dataset 
 - `outputs/` — generated charts and evaluation results
 - `requirements.txt` — Python dependencies
 
